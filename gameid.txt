@@ -1091,7 +1091,7 @@ SCES_504.80 Aggressive Inline Skating
 SCES_504.81 Vexx 
 SCES_504.84 Rayman M 
 SCES_504.86 Splashdown 
-SCES_504.87 Space Race 
+SCES_504.87 Looney Tunes Space Race 
 SCES_504.90 Final Fantasy X 
 SCES_504.91 Final Fantasy X 
 SCES_504.92 Final Fantasy X 
@@ -13753,3 +13753,4 @@ SLUS_216.96 Ford Racing - Off Road
 SLUS_217.49 Garfield - Lasagna World Tour 
 SLUS_217.64 Cake Mania - Baker's Challenge 
 SLKA_150.05 PPSC - Strikers 1945 I & II 
+
